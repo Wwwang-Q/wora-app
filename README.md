@@ -79,3 +79,5 @@ npm run ionic:serve
 * Code released under the Apache-2.0 License
 * Docs released under Creative Commons
 
+# demo gif
+![img](https://github.com/Wwwang-Q/wora-app/blob/master/WQ.gif)
