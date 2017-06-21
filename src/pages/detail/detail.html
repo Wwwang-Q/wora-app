@@ -16,8 +16,7 @@
 <ion-content padding>
 
   <ion-card>
-    <ion-card-content>
-      {{ film.opening_crawl }}
+    <ion-card-content [innerHTML]="film.content ? film.content : film.title">
     </ion-card-content>
   </ion-card>
 
